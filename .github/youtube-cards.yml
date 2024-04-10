@@ -17,6 +17,5 @@ jobs:
         id: youtube-cards
         with:
           channel_id: UCSWLyDLexgmwyaVVLlVY94g
-          comment_tag_name: YOUTUBE-CARDS
-      - run: echo OUTPUT '${{steps.youtube-cards.outputs.markdown}}'
-      shell: bash
+        - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
+        shell: bash
