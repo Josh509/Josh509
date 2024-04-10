@@ -14,6 +14,7 @@ jobs:
     # Run the GitHub Readme YouTube Cards action
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
+        id: youtube-cards
         with:
           channel_id: UCSWLyDLexgmwyaVVLlVY94g
           comment_tag_name: YOUTUBE-CARDS
