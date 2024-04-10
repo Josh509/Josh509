@@ -29,5 +29,8 @@ Me especializo en ingeniería multimedia con un fuerte enfoque en la calidad y l
 
 ![Josué´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh509&show_icons=true&theme=dark)
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 
 
